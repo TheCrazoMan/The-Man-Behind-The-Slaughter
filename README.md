@@ -1,4 +1,4 @@
-# The-Man-Behind-The-Slaughter
+# The Man Behind The Slaughter
 A FNAF Fan-Game by Elliot Kelleher
 
 Hey! I'm Elliot, and I'm making my own FNAF fan-game, about William Afton, right now, the game is in it's prototype phase, so there's not much going on other than some mechanic testing, but if you want to try it feel free!
